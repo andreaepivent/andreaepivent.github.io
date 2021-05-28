@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andréa Epivent's personal page"
+title                    : "Andréa Epivent"
 title_separator          : "-"
 name                     : &name "Andréa Epivent"
 description              : &description "personal description"
