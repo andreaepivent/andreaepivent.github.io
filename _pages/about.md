@@ -10,3 +10,12 @@ redirect_from:
 
 About me
 ======
+
+Research
+======
+
+Teaching
+======
+
+Education
+======
