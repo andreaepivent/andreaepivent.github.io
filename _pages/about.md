@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Andréa and I am a first year PhD student at Institut Polytechnique de Paris/CREST under the supervision of Prof. [Olivier Gossner](http://gossner.me/). 
+Hi, my name is Andréa and I am a first year PhD student at [Institut Polytechnique de Paris](https://www.ip-paris.fr/)/[CREST](https://crest.science/) under the supervision of Prof. [Olivier Gossner](http://gossner.me/). 
 
 I am interested in industrial organizations and competition policy. My research focusses on the impact of pricing algorithms on competition and market outcomes. 
 
@@ -26,7 +26,7 @@ Teaching
 Education
 ======
 
-- Master in Economics, Institut Polytechnique de Paris, 2020/2021
+- [PhD Track in Economics](https://www.ip-paris.fr/education/phd-tracks/phd-track-economie), Institut Polytechnique de Paris, 2020/2021
 - MSc in Economics & Statistics, ENSAE Paris, 2017/2021
 - MSc in Econometrics, Université Paris I Panthéon-Sorbone, 2016/2017
 - BSc in Economics, Université Paris I Panthéon-Sorbone, 2013/2016
