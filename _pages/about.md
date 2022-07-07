@@ -31,4 +31,4 @@ Education
 - MSc in Econometrics, Université Paris I Panthéon-Sorbone, 2016/2017
 - BSc in Economics, Université Paris I Panthéon-Sorbone, 2013/2016
 
-You can find my résumé [here](https://andreaepivent.github.io/files/CV_EN_EPIVENT_Oct21.pdf).
+You can find my résumé [here](https://andreaepivent.github.io/files/CV_EN_EPIVENT.pdf).
