@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, my name is Andréa and I am a first year PhD student at [Institut Polytechnique de Paris](https://www.ip-paris.fr/)/[CREST](https://crest.science/) under the supervision of Prof. [Olivier Gossner](http://gossner.me/). 
 
-I am interested in industrial organizations and competition policy. My research focusses on the impact of pricing algorithms on competition and market outcomes. 
+I am interested in industrial organizations, digital economics and competition policy. My research focuses on algorithms on digital platforms. In my thesis, I aim at quantifying the impact algorithms have on market outcomes and users, and studying which tools could be given to the latter to have more power in front of platforms.
 
-Research
+Work in progress
 ======
 
 TBA
@@ -20,8 +20,8 @@ TBA
 Teaching
 ======
 
-- [Microeconomics I](https://www.ensae.fr/courses/microeconomie-1/) - TA for Prof. Philippe Choné - Graduate (M1) at ENSAE Paris (Fall 2021)
-- [Microeconomics II](https://www.ensae.fr/courses/microeconomie-2-economie-industrielle/) - TA for Prof. Laurent Linnemer - Graduate (M1) at ENSAE Paris (Spring 2022)
+- [Microeconomics I](https://www.ensae.fr/courses/microeconomie-1/) - TA for Prof. Philippe Choné - Graduate (M1) at ENSAE Paris (Fall 2022/2021)
+- [Microeconomics II](https://www.ensae.fr/courses/microeconomie-2-economie-industrielle/) - TA for Prof. Laurent Linnemer - Graduate (M1) at ENSAE Paris (Spring 2023/2022)
 
 Education
 ======
